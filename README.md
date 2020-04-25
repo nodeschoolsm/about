@@ -25,5 +25,8 @@ Fomentar un ambiente de conocimiento tecnológico accesible a todas las personas
 - **Diversidad:** En Nodeschool San Miguel, nos preocupamos por ofrecer algo nuevo que aprender en distintas temáticas e innovar así la comunidad.
 
 ---
+
+### Archivos en este repo
+
 - [Código de conducta](./CoC.md)
 - [FAQ](./FAQ.md)
