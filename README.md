@@ -26,7 +26,7 @@ Fomentar un ambiente de conocimiento tecnológico accesible a todas las personas
 
 ---
 
-### Archivos en este repo
+### Documentos importates a leer
 
 - [Código de conducta](./CoC.md)
 - [FAQ](./FAQ.md)
