@@ -26,6 +26,15 @@ Fomentar un ambiente de conocimiento tecnológico accesible a todas las personas
 
 ---
 
+### Contactanos
+
+- Website: https://nodeschoolsm.io/
+- Instagram: https://www.instagram.com/nodeschoolsm/
+- Twitter: https://www.twitter.com/nodeschoolsm/
+- Facebook: https://www.facebook.com/nodeschoolsm/
+- Email: hello@nodeschoolsm.io
+- Linkedin: https://www.linkedin.com/companies/nodeschool-san-miguel
+
 ### Documentos importates a leer
 
 - [Código de conducta](./CoC.md)
