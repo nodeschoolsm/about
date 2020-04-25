@@ -23,3 +23,7 @@ Fomentar un ambiente de conocimiento tecnológico accesible a todas las personas
 - **Trabajo en equipo:** La razón por cual existimos es por el trabajo en conjunto que hacemos dentro de la comunidad, por ello siempre nos enfocamos en promover esta cultura en cada uno de nuestros miembros.
 
 - **Diversidad:** En Nodeschool San Miguel, nos preocupamos por ofrecer algo nuevo que aprender en distintas temáticas e innovar así la comunidad.
+
+---
+- [Código de conducta](./CoC.md)
+- [FAQ](./FAQ.md)
