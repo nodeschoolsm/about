@@ -10,15 +10,17 @@
 - ¿Como puedo unirme al Discord?
 
   > Para unirte al Server de Nodeschool San Miguel en Discord usa este link: discord.nodeshoolsm.io
-  > ¿Cómo funcionan los canales en el Discord?
+
+- ¿Cómo funcionan los canales en el Discord?
+
   > Existen distintos canales de discusión, un canal frontend para discutir sobre frameworks y tecnologías, desarrollo mobile, backend, incluso para que compartas tus ideas y llevarlas a cabo con ayuda de otras personas dentro del Server de la comunidad, la invitación está siempre abierta para que te unas!.
 
 - ¿Qué significa poder subir de rol en el Server de Discord?
   > En el server de Discord existen distintos roles y con distintos beneficios dentro del mismo, ademá de eso son una representación de participación con y para la comunidad, existen 3 roles básicos:
   >
-  > 1. Stargazer: El rol con el que inicias en el Server
-  > 2. Noder: Este rol representa el rol principal de la comunidad, se obtiene participando en la comunidad o se asigna por un Organizador al evaluar tu participación en el Server.
-  > 3. Rockstar: Es una persona que tiene bastante tiempo siendo parte de esta gran familia
+  > 1. **Stargazer:** El rol con el que inicias en el Server
+  > 2. **Noder:** Este rol representa el rol principal de la comunidad, se obtiene participando en la comunidad o se asigna por un Organizador al evaluar tu participación en el Server.
+  > 3. **Rockstar:** Es una persona que tiene bastante tiempo siendo parte de esta gran familia
 - ¿Cuales son mis beneficios al ser un Noder?
   > Al ser un Noder contribuyes a hacer de Nodeschool San Miguel una comunidad mucho más sólida.
   > Como Noder contribuimos en la evangelización del constante aprendizaje y del conocimiento colectivo
@@ -35,14 +37,15 @@
 - ¿Qué es un Speaker?
   > Es la persona que brinda de su tiempo para desarrollar una temática ante la comunidad en la cual puede ser una charla o taller, en cual imparte de su conocimiento y habilidades y destrezas en un tema específico.
 - ¿Donde veo un listado de speakers que ha colaborado con la comunidad ?
-  > Puedes ver los speakers que han colaborado en Nodeschool San Miguel en: nodeschoolsm.io/speakers
+  > Puedes ver los speakers que han colaborado en Nodeschool San Miguel en: https://nodeschoolsm.io/speakers
 - ¿Qué beneficio tengo al ser un Speaker?
   > El beneficio que obtienes al ser un Speaker es que te llevas la satisfacción de brindar tus conocimientos que ya adquirido durante tu travesía tech y que puedes ser ejemplo hacía demás personas por tu perseverancia. Y al mismo tiempo, se hace una entrega reconocimientos por tu participación con la comunidad, el cuales estos pueden ser en físicos o digitales.
 - ¿Donde puedo proponer mi charla?
   > Para postulaciones de charlas/talleres, en el sitio web encontrarás el formulario, el cual podrás rellenar con la información necesaria para la misma, luego recibirás una notificación si tu propuesta es aceptada y con detalles necesario para dicha realización.
 - No soy de El Salvador , ¿ Puedo hacer mi charla remota ?
-  > ¡Claro, por supuesto! Vivimos en la era tecnológica y la presencia física en el país no es ningún impedimento para poder realizar una presentación de forma remota. Para postular tu charla, llena este formulario: form.nodeschoolsm.io con los datos necesarios y así poder responder a tu solicitud.
+  > ¡Claro, por supuesto! Vivimos en la era tecnológica y la presencia física en el país no es ningún impedimento para poder realizar una presentación de forma remota. Para postular tu charla, llena este formulario: http://form.nodeschoolsm.io con los datos necesarios y así poder responder a tu solicitud.
 - ¿Será documentada de manera audiovisual el material de la charla/taller?
+
   > Son necesarias tus slides de la presentación y que además las compartas con los organizadores para que así los Noders puedan repasar tu presentación o visualizarla luego si no estuvieron presentes en un evento.
 
   > En la comunidad grabamos ciertos eventos para subirlos a nuestro canal de Youtube, Spotify, u otro servicio de Podcasts, estos eventos son: CODEVENT, WebSummit y el Podcast PuntoDev.
@@ -58,17 +61,18 @@
   > Son recurrentes en la comunidad, haciendo un total de 5 meetups en el año, normalmente estos meetups se hacen el último sábado del mes agendado, en estos meetups se imparten charlas y talleres con temáticas diversas sobre el área tecnológica.
 - ¿Qué es un CODEVENT ?
 
-  > Son una serie de eventos que suceden 2 veces al año, consiste en compartir y motivar con conocimiento a los Noders con personas experimentadas en distintas áreas de desarrollo personal, laboral y empresarial. Estas presentaciones no son necesariamente sobre codificación, como Devs sabemos que hay muchas cosas que aprender aparte de programar. Envía tu propuesta en: form.nodeschoolsm.io
+  > Son una serie de eventos que suceden 2 veces al año, consiste en compartir y motivar con conocimiento a los Noders con personas experimentadas en distintas áreas de desarrollo personal, laboral y empresarial. Estas presentaciones no son necesariamente sobre codificación, como Devs sabemos que hay muchas cosas que aprender aparte de programar. Envía tu propuesta en: http://form.nodeschoolsm.io
 
 - ¿Qué es un Web Summit ?
 
   > Es un evento online qué sucede una vez al año, este evento tiene un enfoque en su totalidad al Desarrollo Web. Consiste en invitar a speakers Nacionales e Internacionales, se abre un canal en el server de Discord para charlar con ellos e interactuar con los Noders, aprendemos de todos y todos aprenden de nosotros.
 
-  > Estos eventos a veces son seguimientos de los temas impartidos en CODEVENT’s pero recordemos que pueden ser esparcidos por toda la internet, porque se hace streaming de todo lo que sucede en Twitch y se guarda en las playlists de nuestro canal de Youtube. Envía tu propuesta para el WebSummit en form.nodeschoolsm.io
+  > Estos eventos a veces son seguimientos de los temas impartidos en CODEVENT’s pero recordemos que pueden ser esparcidos por toda la internet, porque se hace streaming de todo lo que sucede en Twitch y se guarda en las playlists de nuestro canal de Youtube. Envía tu propuesta para el WebSummit en http://form.nodeschoolsm.io
 
 - ¿Qué es un Open Hack Day ?
-  > Es un evento que dura un día completo, normalmente durante la primera semana de Diciembre, donde el objetivo es hackear, construir, desarmar, desarrollar, llorar, en fin construir algo para el bien de todos y aprender haciendo. Conoce más sobre el evento acá:. nodeschoolsm.io/ohd
+  > Es un evento que dura un día completo, normalmente durante la primera semana de Diciembre, donde el objetivo es hackear, construir, desarmar, desarrollar, llorar, en fin construir algo para el bien de todos y aprender haciendo. Conoce más sobre el evento acá:. https://nodeschoolsm.io/ohd
 - ¿Qué es un NerdTalk ?
+
   > Es una reunión que se realizan el primer sábado de cada mes en el server de Discord de la comunidad donde se discute sobre cosas de nerds, desarrollo, juegos, gadgets tecnológicos, etc.
 
   > Se puede decir que es como una charla de tópicos mixtos, o un café con desarrolladores, pero virtual
@@ -95,7 +99,7 @@
 - ¿ Qué beneficio obtiene mi marca al colaborar con la comunidad ?
   > Además de contribuir al crecimiento de la comunidad te listaremos por siempre en nuestro sitio web, haremos publicación de tu colaboración en nuestras redes sociales y te dejaremos un espacio para comentar de tu marca en los eventos que seas sponsor.
 - ¿ Dónde están los patrocinadores de la comunidad ?
-  > Puedes encontrar una lista de todos los patrocinadores de la comunidad acá: nodeschoolsm.io/sponsors
+  > Puedes encontrar una lista de todos los patrocinadores de la comunidad acá: https://nodeschoolsm.io/sponsors
 - ¿ Puedo compartir SWAG de mi marca en sus eventos ?
   > Claro que sí, puedes compartir flyers, stickers, y cualquier goodie o swag de tu marca con nosotros y con todo gusto lo entregaremos a los Noders que asistan a nuestros eventos, solo envíanos un email a team@nodeschoolsm.io para dar continuidad de tu duda. Recuerda que también realizamos eventos online en donde podemos entregarle goodies a los asistentes por email.
   </details>

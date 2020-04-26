@@ -18,4 +18,4 @@ El lenguaje e imágenes sexuales, no son apropiadas para ningún evento dentro d
 Los integrantes de la comunidad que no respeten el código de conducta anteriormente descrito, serán sancionados o expulsados de la comunidad a discreción de los organizadores de Nodeschool San Miguel.
 
 ---
-> Actualizado el Martes 7 de Abril del 2020 por los organizadores de Nodeschool San Miguel.
+*Actualizado el Martes 7 de Abril del 2020 por los organizadores de Nodeschool San Miguel.*
