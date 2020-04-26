@@ -25,7 +25,7 @@
   > Al ser un Noder contribuyes a hacer de Nodeschool San Miguel una comunidad mucho más sólida.
   > Como Noder contribuimos en la evangelización del constante aprendizaje y del conocimiento colectivo
   > Eres parte de esta gran familia
-- ¿ Tengo una sugerencia para la comunidad, ¿ donde lo puedo hacer ?
+- ¿ Tengo una sugerencia para la comunidad, ¿ Donde lo puedo hacer ?
   > Puedes escribirnos a nuestras Redes Sociales, o puedes usar este formulario: https://airtable.com/shrf9lbN2ZEgE4rCZ, estamos abiertos a cada una de tus opiniones.
 - Quiero colaborar con la comunidad en la organización de eventos, ¿Cómo puedo hacerlo ?
   > Puedes acercarte a nuestros canales de comunicación y hacérnoslo saber, trataremos de atender tu solicitud con la mayor brevedad posible!.
@@ -81,7 +81,7 @@
   > Los eventos se realizan en su mayoría en las instalaciones del Instituto Nacional de la Juventud(INJUVE), pero comúnmente se desarrollan en lugares donde los patrocinadores de la comunidad nos colaboran con un Local/Lugar/Espacio.
 - ¿Como me puedo enterar de nuevos eventos en la comunidad?
 
-  > Te puedes enterar de todos nuestros eventos en redes sociales y estamos en TODAS, sí en todas así que no tienes excusas de que no te enterastes de cualquier evento a desarrollar.
+  > Te puedes enterar de todos nuestros eventos en redes sociales, Twitter, Facebook e Instagram así que no tienes excusas de que no te enterastes de cualquier evento a desarrollar.
 
 - Quiero un evento personalizado junto a la comunidad, ¿ Puedo hacerlo ?
 
