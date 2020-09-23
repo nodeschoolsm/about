@@ -71,7 +71,7 @@
 
 - ¿Qué es un Open Hack Day ?
   > Es un evento que dura un día completo, normalmente durante la primera semana de Diciembre, donde el objetivo es hackear, construir, desarmar, desarrollar, llorar, en fin construir algo para el bien de todos y aprender haciendo. Conoce más sobre el evento acá:. https://nodeschoolsm.io/ohd
-- ¿Qué es un NerdTalk ?
+- ¿Qué es un Café Digital ?
 
   > Es una reunión que se realizan el primer sábado de cada mes en el server de Discord de la comunidad donde se discute sobre cosas de nerds, desarrollo, juegos, gadgets tecnológicos, etc.
 
